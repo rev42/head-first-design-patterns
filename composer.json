@@ -1,0 +1,11 @@
+{
+    "name": "rev42/head-first-design-patterns-php",
+    "description": "PHP implementation of design patterns from O'Reilly book 'Head First Design Patterns'",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Olivier Cornu",
+            "email": "olivier.cornu@gmail.com"
+        }
+    ]
+}
